@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Danylo Antypenko — C# / .NET backend developer. Backend systems, developer tools, and audio experiments." src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
+  <img alt="Danylo Antypenko — C# / .NET backend developer. Backend systems, developer tools, and audio experiments." src="assets/profile-light.svg" width="100%">
 </picture>
 
 I’m a **C# / .NET backend developer** based in Warsaw, with freelance and internship experience building REST APIs, database-backed applications, and third-party integrations. I also work with React and Python.
