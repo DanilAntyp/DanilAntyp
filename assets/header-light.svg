@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="180" viewBox="0 0 880 180" role="img" aria-labelledby="title desc">
-<title id="title">Danil — software developer</title>
-<desc id="desc">Open-source tools, web apps, and experiments.</desc>
+<title id="title">Danylo Antypenko — C# / .NET backend developer</title>
+<desc id="desc">Backend systems, developer tools, and audio experiments.</desc>
 <rect width="880" height="180" fill="#ffffff"/>
 <rect x="0" y="22" width="4" height="126" rx="2" fill="#3662b8"/>
 <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
-<text x="28" y="44" font-size="13" font-weight="600" letter-spacing="2" fill="#596575">DANILANTYP / SOFTWARE DEVELOPER</text>
-<text x="26" y="105" font-size="51" font-weight="700" letter-spacing="-1.5" fill="#18212b">Hi, I’m Danil.</text>
-<text x="28" y="143" font-size="20" fill="#596575">Open-source tools, web apps, and experiments.</text>
+<text x="28" y="44" font-size="13" font-weight="600" letter-spacing="2" fill="#596575">DANILANTYP / C# · .NET BACKEND DEVELOPER</text>
+<text x="26" y="105" font-size="49" font-weight="700" letter-spacing="-1.5" fill="#18212b">Danylo Antypenko.</text>
+<text x="28" y="143" font-size="20" fill="#596575">Backend systems, developer tools, and audio experiments.</text>
 </g></svg>
